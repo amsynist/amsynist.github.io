@@ -10,24 +10,7 @@
 }
 .socio{margin:auto;display:flex;justify-content: space-between;padding:5px 25px;
 }
-svg{  
-    display:inline-block;
-    stroke:#fff;fill:none;stroke-width: 1px;
-}
-#tw{
-    stroke-dasharray: 300,0,3000;
 
-}
-@keyframes twt{
-    10%{
-        stroke-dasharray: 300,500,3000;
-
-    }
-    100%{
-        stroke-dasharray: 300,500,3000;
-
-    }
-}
 body{transition: all 0.5s ease;margin:0!important;font-family:Poppins,sans-serif!important;letter-spacing:2px!important;background-color: #000000;
     background-image: linear-gradient(147deg, #000000 0%, #2c3e50 74%);font-weight:200; margin: auto!important}
 h1{text-align:center!important;margin-top:50px!important;font-weight:100!important;font-size:3em}
