@@ -8,16 +8,16 @@
 
 var socialtags = [{
     img: "img/github.svg",
-    link: "https://github.com/akshay2211"
+    link: "https://github.com/amsynist"
 }, {
-    img: "img/linkedin.svg",
-    link: "https://www.linkedin.com/in/akshay-sharma-80478448/"
+    img: "img/instagram.svg",
+    link: "https://www.instagram.com/pravinprvs"
 }, {
-    img: "img/gitlab.svg",
-    link: "https://gitlab.com/akshay2211"
+    img: "img/instapage.svg",
+    link: "https://www.instagram.com/zeronedinsta"
 }, {
-    img: "img/twitter.svg",
-    link: "https://twitter.com/_akshay22"
+    img: "img/telegram.svg",
+    link: "https://twitter.com/zeroned"
 }]
 
 function loadSocialIcons() {
