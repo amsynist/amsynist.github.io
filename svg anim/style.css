@@ -1,0 +1,29 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color: rgb(175, 143, 143);
+    
+}
+
+svg{  
+    display:inline-block;max-height: 80px;
+    stroke:#fff;fill:none;stroke-width:1px;
+    margin:0 auto;
+}
+#tw{
+    stroke-dasharray: 300,0,3000;
+
+}
+svg:hover #tw{
+    animation: twt .7s;
+}
+@keyframes twt{
+    10%{
+        stroke-dasharray: 300,500,3000;
+
+    }
+    100%{
+        stroke-dasharray: 300,500,3000;
+
+    }
+}
