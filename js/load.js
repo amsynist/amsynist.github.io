@@ -17,7 +17,7 @@ var socialtags = [{
     link: "https://www.instagram.com/zeronedinsta"
 }, {
     img: "img/telegram.svg",
-    link: "https://twitter.com/zeroned"
+    link: "https://telegram.com/zeroned"
 }]
 
 function loadSocialIcons() {
