@@ -118,8 +118,21 @@ h1 a:hover span:nth-child(4){
 }
 #social-list{
    
-    margin-top:20px;
+    margin-top:70px;
     
+}
+#social-list img:hover{
+    
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
 }
 p{
     color:#fff;
