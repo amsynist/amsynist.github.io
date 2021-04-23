@@ -116,6 +116,10 @@ h1 a:hover span:nth-child(4){
     margin-top:20px;
     
 }
+p{
+    color:#fff;
+}
+#typed{color:whitesmoke;}
 .desc{font-family: neuro; 
     letter-spacing:6px;}
 .center{margin:auto!important;text-align:center!important}
