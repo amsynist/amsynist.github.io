@@ -125,7 +125,7 @@ p{
     font-family: neuro; 
     letter-spacing:8px;   
 }
-#typed {font-size:25px; font-family:glitch!important;letter-spacing: 8px; } 
+#typed { font-family:glitch!important;letter-spacing: 4px; } 
 .center{margin:auto!important;text-align:center!important}
 .vertical-center{min-height:100%;min-height:100vh;display:flex;align-items:center}
 .spacing{margin-top:5%;margin-top:5vh;margin-bottom:20%;margin-bottom:20vh}
