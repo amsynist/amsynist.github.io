@@ -53,6 +53,29 @@ h1 a{
     color:white;
   }
 
+.float{
+	position:fixed;
+	width:40px;
+	height:40px;
+	bottom:40px;
+	right:40px;
+	background-color:dodgerblue;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+}
+
+.my-float{
+    height:60px;
+    display:flex;
+    justify-content:center;
+    margin:8px;
+    font-size: 15px;
+}
+.float:hover{
+    color:dodgerblue;
+    background-color:black;
+}
 h1 a:hover{
     
     transition-duration:0.5s;
