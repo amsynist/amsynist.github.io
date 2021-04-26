@@ -12,7 +12,7 @@ by  <a href="https://github.com/amsynist" rel="amsynist">PRAV!N</a>
 
 * Clean Ui and gradient shade
 
-*Terminal typing effect (like for quotes or about description)
+* Terminal typing effect (like for quotes or about description)
 
 
 
