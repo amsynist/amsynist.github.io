@@ -4,7 +4,7 @@ by  <a href="https://github.com/amsynist" rel="amsynist">PRAV!N</a>
 
 ## Website Features
 
-* Resposive 
+* Responsive 
 
 * Background Color Toggler
 
